@@ -1,0 +1,1 @@
+print("Ah, Git. An elegant weapon for a more civilized age.")
