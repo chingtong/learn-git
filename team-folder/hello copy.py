@@ -1,0 +1,1 @@
+print("Life is good")
